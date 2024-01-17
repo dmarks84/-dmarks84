@@ -1,9 +1,9 @@
 ### Greetings 👋
 
-#### Mechanical Engineer turned Data Scientist and Machine Learning Engineer. Interested in putting my shoulder against impactful problems with awesome teams
+#### I am a Mechanical Engineer turned Data Scientist and Machine Learning Engineer. Interested in putting my shoulder against impactful problems with awesome teams!
 
 LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) | 
-No other social media, by intent
+*No other social media, by intent*
 
 - ⚙️ I work primarily in `Python` (Pandas, Numpy, Scikit-learn, etc.) and `SQL`, but have experience in `HTML`, `CSS` and a few others.
   - Nothing takes too long to learn; new langauges are only a few dedicated days of study away 
