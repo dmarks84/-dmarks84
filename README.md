@@ -13,5 +13,5 @@ LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) |
   - [SpaceX Lander Predictions](https://github.com/dmarks84/CapstoneProject_SpaceX_Predictions)
   - [Airfoil Noise Prediction](https://github.com/dmarks84/Project_Airfoil-Noise-Prediction)
   - [Housing Sales Prediction](https://github.com/dmarks84/Project_ML-Model-Eval-Refine)
-  - [Machine Learning Classification for Weather Prediction](https://github.com/dmarks84/Project_ML-Classification)
+  - [Kaggle Competition - Binary Class Predictor](https://github.com/dmarks84/Ind_Project_Data-Science-London-Scikit-learn--Kaggle)
 - 💬 `ping` me about **Data Science**, **Machine Learning**, **Soccer**, **Brazilian Jiu Jitsu**, & **Start-ups**
