@@ -12,6 +12,6 @@ LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) |
   - [Full Data Engineering Capstone Project](https://github.com/dmarks84/CapstoneProject_Full_Data_Engineering)
   - [SpaceX Lander Predictions](https://github.com/dmarks84/CapstoneProject_SpaceX_Predictions)
   - [Airfoil Noise Prediction](https://github.com/dmarks84/Project_Airfoil-Noise-Prediction)
-  - [California Housing EDA, FeatureEng, & Regression](https://github.com/dmarks84/Ind_Project_Data-Science-London-Scikit-learn--Kaggle)
+  - [California Housing EDA, FeatureEng, & Regression](https://github.com/dmarks84/Ind_Project_California-Housing-Data--Kaggle)
   - [Kaggle Competition - Binary Class Predictor](https://github.com/dmarks84/Ind_Project_Data-Science-London-Scikit-learn--Kaggle)
 - 💬 `ping` me about **Data Science**, **Machine Learning**, **Soccer**, **Brazilian Jiu Jitsu**, & **Start-ups**
