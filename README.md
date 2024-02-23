@@ -10,7 +10,7 @@ LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) |
 - 🌍 I'm currently applying for full-time positions, primarily looking for data science/ML engineer roles but open to anything challenging and/or impactful
 - 💅 Individual repositories hold the major work (coursework and personal projects) I've done to date.  The primary ones are pinned, but I've listed my favorite here:
   - [European Soccer Points Contributors - Messi's Significance](https://github.com/dmarks84/Ind_Project_European-Soccer-Top-Points-Contributors--Kaggle)
-  - [Kaggle Competition DS London - Binary Class Predictor](https://github.com/dmarks84/Ind_Project_Data-Science-London-Scikit-learn--Kaggle)
+  - [Obesity Multi-Class Classification Predictor -- Kaggle Competition](https://github.com/dmarks84/Ind_Proj_Obesity-Multi-Class-Classification--Kaggle)
   - [California Housing EDA, FeatureEng, & Regression](https://github.com/dmarks84/Ind_Project_California-Housing-Data--Kaggle)
   - [Docker Image PNW Weather Alert WebApp](https://github.com/dmarks84/Ind_Project_Docker-Image-PNW-Weather-App)
   - [Mall Customer Segmentation via Clustering](https://github.com/dmarks84/Ind_Project_Mall-Customer-Clustering--Kaggle)
