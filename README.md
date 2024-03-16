@@ -16,7 +16,7 @@ LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) |
   - [Docker Image PNW Weather Alert WebApp](https://github.com/dmarks84/Ind_Project_Docker-Image-PNW-Weather-App)
   - [Mall Customer Segmentation via Clustering](https://github.com/dmarks84/Ind_Project_Mall-Customer-Clustering--Kaggle)
   - [Superstore Sales Prediction with Time Series Analysis](https://github.com/dmarks84/Ind_Project_Superstore-Sales-Time-Series-Analysis--Kaggle)
-  - [NLP Topic/Sentimenet Analysis & Classification](https://github.com/dmarks84/Ind_Project_New-Topic-NLP-Analysis-Classification--Kaggle)
+  - [NLP Topic/Sentiment Analysis & Classification](https://github.com/dmarks84/Ind_Project_New-Topic-NLP-Analysis-Classification--Kaggle)
   - [SpaceX Lander Predictions](https://github.com/dmarks84/Coursework_Capstone_SpaceX_Predictions)
   - [Airfoil Noise Prediction](https://github.com/dmarks84/Coursework_Project_Airfoil-Noise-Prediction)
   - [Full Data Engineering Capstone Project](https://github.com/dmarks84/Coursework_Capstone_Full_Data_Engineering)
