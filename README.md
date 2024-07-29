@@ -1,6 +1,6 @@
 ### GREETINGS!
 
-#### I am a Mechanical Engineer turned Data Scientist and Machine Learning Engineer. Interested in putting my shoulder against impactful problems with awesome teams!
+#### I am a Mechanical Engineer turned Data Analyst/Scientist. Interested in putting my shoulder against impactful problems with awesome teams!
 
 LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) | 
 *No other social media, by intent*
