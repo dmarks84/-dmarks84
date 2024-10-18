@@ -21,4 +21,4 @@ LinkedIn profile: [dmarks84](https://www.linkedin.com/in/dmarks84/) |
   - [SpaceX Lander Predictions](https://github.com/dmarks84/Coursework_Capstone_SpaceX_Predictions)
   - [Airfoil Noise Prediction](https://github.com/dmarks84/Coursework_Project_Airfoil-Noise-Prediction)
   - [Full Data Engineering Capstone Project](https://github.com/dmarks84/Coursework_Capstone_Full_Data_Engineering)
-- 💬 `ping` me about ** Data Analytics**, **Data Science**, **Machine Learning**, **Soccer**, **Brazilian Jiu Jitsu**, & **Start-ups**
+- 💬 `ping` me about **Data Analytics**, **Data Science**, **Machine Learning**, **Soccer**, **Brazilian Jiu Jitsu**, & **Start-ups**
